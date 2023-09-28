@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Laguna Brava Ecotourism</title>
+    </head>
+    <body>
+        <main>
+            
+        <header> 
+        <!-- header section -->
+
+        <img src="img/panoramic-laguna-brava-2.jpg" alt="Laguna Brava lake" title="Laguna Brava">
+
+        <h1>Welcome blurb: Learn everything about the activities that Labuna Brava offers to its visitors.</h1>
+
+        </header>
+        <p>[Welcome blurb] Learn everything about the activities that Laguna Brava offers to its visitors.</p>
+
+        <nav>
+            <ul>
+                <li><a href="#activities">Activities</a></li>
+                <li><a href="#communities">The Local Communities</a></li>
+            </ul>
+        </nav>
+
+
+        <h2>Activities</h2>
+        <p>
+            The communities offer two activities for guided visits that allow visitors to enjoy Laguna Brava's natural beauty. In both activities, <strong>members of the Laguna Brava's community provide life vests and local guides who know the lake very well to ensure your safety.</strong>
+        </p>
+
+        <section id="activities">
+        <article> 
+
+        <h3>The Lake Challenge</h3>
+
+        <figure>
+
+        <img src="img/kayak.jpg" alt="Lake challenge kayak" title="Kayak on Laguna Brava">
+        <figcaption>Cross the four kilometers in a kayak.</figcaption>
+        </figure>
+
+        <p> Put your strengths to work by crossing the four kilometers in a kayak guided by a local guide. This adventure is physically demanding and recommended for only those in excellent physical condition.</p>
+
+        
+
+        <ul>
+            <li>Duration: 5 hours approx.</li>
+            <li>Price: $50 USD</li>
+            <li>Minimum: 2 pax</li>
+        </ul>
+
+        </article>   
+        </section>
+        
+            <section>
+            <article> 
+
+        <h3>Sit Back & Relax</h3>
+
+        <figure>
+        <img src="img/boat.jpg" alt="Sit Back & Relax boat" title="Boat trip">
+        <figcaption>
+            Board a rowing boat and admire the nature of Laguna Brava.
+        </figcaption>
+        </figure>
+
+        <p>Admire the nature of Laguna Brava by boarding a rowing boat around the most beautiful parts of the lake. This guided visit does not require physical effort. </p>
+
+        
+
+        <ul>
+            <li>Duration: 3 hours approx.</li>
+            <li>Price: $40 USD</li>
+            <li>Minimum: 4 pax</li>
+        </ul>
+
+        </article>
+        </section>
+        <section id="communities">
+
+        <h2>Description of the local communities</h2>
+        <p>
+            The area around Laguna Brava has been inhabited by Mayan communities of the <a href=["https://en.wikipedia.org/wiki/Karst](https://en.wikipedia.org/wiki/Chuj_people)">Chuj ethnicity</a> Chuj ethnicity since the 19th century. Members of these communities welcome travelers from all regions of the world looking for adventure and nature. They believe that visitors and <em>responsible ecotourism practices</em> are essential to support the development of their communities.
+        </p>
+        </main>
+
+        <aside>
+
+       
+        <h2> have you travlled to leguna brava? </h2>
+
+        </section>
+        <hr>
+        <form>
+            <form action = https://api.sheetmonkey.io/form/ffyuto3ggCVLPbHETHuQnN method = "POST"></form>
+            <label for="name">Name: </label>
+            <input type="text" id="name" placeholder="Write your name" name="visitor_name">
+            <br> <br>
+
+            <label for="email">Email: </label>
+            <input type="email" id="email" placeholder="Write your email" name = "visitor_email"><br><br>
+
+            <label for="experience">Experience: </label>
+            <textarea id="experience" placeholder="Please share with us your experience." rows="5" cols="50" name = "visitor_experience"></textarea> 
+
+            <input type = "submit" value = "submit"
+
+        </form> 
+        </aside>
+        <footer>
+            &copy; 2023 Laguna Brava Ecotourism
+        </footer>
+
+    </body>
+</html>
